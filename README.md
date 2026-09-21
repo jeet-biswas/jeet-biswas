@@ -7,11 +7,13 @@
 Building intelligent systems, AI agents, and production-ready ML applications.
 
 </div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=180&section=header&text=JEET%20BISWAS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20LLM%20ENGINEER&descAlignY=65&descSize=18" width="100%"/>
 
 </div>
+
 <div align="center">
 
 > **I build AI-powered systems that turn ideas into real-world products.**
@@ -33,6 +35,7 @@ My interests include:
 - 📱 AI-powered automation
 - 🔬 Edge AI & TinyML
 - 🚀 Deploying AI systems into production
+
 ---
 
 ## 🚀 Currently Building
@@ -45,37 +48,14 @@ A centralized AI interface that routes user requests to specialized agents.
                     USER
                       │
                       ▼
-              ┌───────────────┐
-              │ AI ORCHESTRATOR│
-              └───────┬───────┘
-                      │
-       ┌──────────────┼──────────────┐
-       ▼              ▼              ▼
-    📧 Email       📱 WhatsApp    📅 Calendar
-      Agent           Agent          Agent
-       │              │              │
-       ▼              ▼              ▼
-     Gmail          Meta API      Calendar
-
-
----
-
-## 🛠️ Tech Stack
-
-### 🧠 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
-</p>
-
-### ⚙️ Backend & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,js,git,github" />
-</p>
-
-### 🗄️ Databases & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,linux" />
-</p>
+              ┌─────────────────┐
+              │ AI ORCHESTRATOR │
+              └────────┬────────┘
+                       │
+       ┌───────────────┼───────────────┐
+       ▼               ▼               ▼
+   📧 Email        📱 WhatsApp      📅 Calendar
+     Agent            Agent            Agent
+       │               │               │
+       ▼               ▼               ▼
+     Gmail           Meta API        Calendar
