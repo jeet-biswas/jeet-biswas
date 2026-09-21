@@ -1,61 +1,74 @@
 <div align="center">
 
-# 👋 Hey, I'm Jeet Biswas
+# Jeet Biswas
 
-### 🤖 AI / LLM Engineer · Machine Learning · Agentic AI
+### AI / ML Engineer | Generative AI | Agentic Systems | MLOps
 
-Building intelligent systems, AI agents, and production-ready ML applications.
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=180&section=header&text=JEET%20BISWAS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20LLM%20ENGINEER&descAlignY=65&descSize=18" width="100%"/>
+Designing and building end-to-end AI systems, from model development and
+LLM orchestration to backend integration, deployment, and production workflows.
 
 </div>
 
 <div align="center">
 
-> **I build AI-powered systems that turn ideas into real-world products.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f766e&height=180&section=header&text=JEET%20BISWAS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20ENGINEER&descAlignY=65&descSize=18" width="100%"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About
 
-I'm an AI/ML engineer focused on building intelligent applications using
-Machine Learning, Deep Learning, LLMs, and Agentic AI.
+I am an AI/ML engineer focused on building and deploying intelligent systems
+across Machine Learning, Generative AI, Agentic AI, and MLOps.
 
-My interests include:
+My work spans the complete AI engineering lifecycle: data preparation,
+model development, evaluation, API integration, system orchestration,
+deployment, testing, and production-oriented infrastructure.
 
-- 🤖 LLM applications & AI agents
-- 🧠 Machine Learning & Deep Learning
-- ⚙️ Backend & AI infrastructure
-- 📱 AI-powered automation
-- 🔬 Edge AI & TinyML
-- 🚀 Deploying AI systems into production
+I am particularly interested in building systems where models are integrated
+with software, external tools, APIs, and real-world workflows rather than
+operating as isolated experiments.
+
+### Areas of Focus
+
+- Generative AI and Large Language Model applications
+- Agentic AI and multi-agent architectures
+- Machine Learning and Deep Learning
+- End-to-end AI/ML systems
+- MLOps and model deployment
+- AI-powered automation and workflow systems
+- Edge AI and TinyML
+- Backend systems for AI applications
+
 
 ---
+## Technical Skills
 
-## 🚀 Currently Building
+Generative AI: LLMs, Prompt Engineering, RAG, AI Applications
 
-### 🤖 Multi-Agent AI Platform
+Agentic AI: AI Agents, Multi-Agent Systems, LLM Orchestration, Tool Calling, Agent Workflows
 
-A centralized AI interface that routes user requests to specialized agents.
+Machine Learning: Supervised Learning, Unsupervised Learning, Scikit-learn, Feature Engineering, Model Evaluation
 
-```text
-                    USER
-                      │
-                      ▼
-              ┌─────────────────┐
-              │ AI ORCHESTRATOR │
-              └────────┬────────┘
-                       │
-       ┌───────────────┼───────────────┐
-       ▼               ▼               ▼
-   📧 Email        📱 WhatsApp      📅 Calendar
-     Agent            Agent            Agent
-       │               │               │
-       ▼               ▼               ▼
-     Gmail           Meta API        Calendar
+Deep Learning: CNN, LSTM, BiLSTM, TensorFlow, PyTorch, Keras
+
+MLOps: Model Deployment, Docker, CI/CD, GitHub Actions, REST APIs, Model Serving
+
+Backend: Python, FastAPI, Node.js, REST APIs, Webhooks, OAuth
+
+Data: SQL, PostgreSQL, MongoDB, Pandas, NumPy
+
+Edge AI: TinyML, TensorFlow Lite, Edge Impulse, Arduino, Raspberry Pi
+
+---
+## Technology Stack
+<div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=python" />
+AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+Backend & Infrastructure
+<img src="https://skillicons.dev/icons?i=fastapi,docker" />
+Databases & Development
+<img src="https://skillicons.dev/icons?i=postgres,git,github" /> </div>
