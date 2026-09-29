@@ -22,17 +22,18 @@ orchestration to backend integration, deployment, and production workflows.
 I am an **AI/ML Engineer** focused on building and deploying intelligent
 systems across **Machine Learning, Generative AI, Agentic AI, and MLOps**.
 
-My work spans the complete AI engineering lifecycle, including:
+My work spans the complete AI engineering lifecycle:
 
-- Data preparation
-- Model development
-- Model evaluation
+- Data preparation and processing
+- Machine Learning and Deep Learning
 - LLM application development
-- API and backend integration
+- RAG and knowledge-based systems
 - AI agent orchestration
+- API and backend integration
+- Model evaluation and inference
 - Deployment and model serving
-- Testing and debugging
-- Production-oriented infrastructure
+- Testing, debugging, and automation
+- Production-oriented AI infrastructure
 
 I am particularly interested in building **real-world AI systems** where
 models interact with software, external tools, APIs, databases, and
@@ -44,6 +45,7 @@ business workflows rather than operating as isolated experiments.
 - 🧠 Agentic AI & Multi-Agent Systems
 - 📊 Machine Learning & Deep Learning
 - 🔗 LLM Orchestration & Tool Calling
+- 📚 RAG & Knowledge Systems
 - ⚙️ End-to-End AI/ML Systems
 - 🚀 MLOps & Model Deployment
 - 🔄 AI-Powered Automation & Workflows
@@ -54,43 +56,49 @@ business workflows rather than operating as isolated experiments.
 
 ## 🧰 Technical Skills
 
-### Generative AI
+### 🤖 Generative AI
 
-`LLMs` `Prompt Engineering` `RAG` `Embeddings` `AI Applications`
+`LLMs` `Prompt Engineering` `RAG` `Embeddings` `Vector Search`
+`LLM Applications` `AI Automation`
 
-### Agentic AI
+### 🧩 Agentic AI
 
 `AI Agents` `Multi-Agent Systems` `LLM Orchestration`
-`Tool Calling` `Agent Workflows`
+`Tool Calling` `Function Calling` `Agent Workflows`
 
-### Machine Learning
+### 📊 Machine Learning
 
 `Supervised Learning` `Unsupervised Learning`
 `Scikit-learn` `Feature Engineering` `Model Evaluation`
 
-### Deep Learning
+### 🧠 Deep Learning
 
-`CNN` `LSTM` `BiLSTM` `TensorFlow` `PyTorch` `Keras`
+`CNN` `LSTM` `BiLSTM` `Attention`
+`TensorFlow` `PyTorch` `Keras`
 
-### MLOps
+### ⚙️ MLOps & Deployment
 
-`Model Deployment` `Docker` `CI/CD`
-`GitHub Actions` `REST APIs` `Model Serving`
+`Docker` `Model Deployment` `Model Serving`
+`CI/CD` `GitHub Actions` `REST APIs`
 
-### Backend
+### 🖥️ Backend Engineering
 
-`Python` `FastAPI` `Node.js` `REST APIs`
-`Webhooks` `OAuth`
+`Python` `FastAPI` `Node.js`
+`REST APIs` `Webhooks` `OAuth`
 
-### Data
+### 🗄️ Data & Databases
 
 `SQL` `PostgreSQL` `MongoDB`
 `Pandas` `NumPy`
 
-### Edge AI
+### 📡 Edge AI
 
 `TinyML` `TensorFlow Lite` `Edge Impulse`
 `Arduino` `Raspberry Pi`
+
+### 🔧 Development Tools
+
+`Git` `GitHub` `Docker` `VS Code` `Jupyter`
 
 ---
 
@@ -100,19 +108,27 @@ business workflows rather than operating as isolated experiments.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js" />
 
 ### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 
-### Backend & Infrastructure
+### Backend
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 
-### Databases & Development
+### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+
+### DevOps & Development
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
+
+### Edge AI
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 
 </div>
 
@@ -120,43 +136,59 @@ business workflows rather than operating as isolated experiments.
 
 ## 🚀 What I Build
 
-- AI-powered applications
-- LLM-based systems
-- RAG pipelines
-- AI agents and multi-agent systems
-- AI automation workflows
-- Machine learning applications
-- Deep learning systems
-- AI backend APIs
-- Model deployment pipelines
-- Edge AI and TinyML applications
+I focus on building **complete AI systems**, not just standalone models.
+
+### 🔹 Generative AI Applications
+
+LLM-powered applications that understand user requests, retrieve relevant
+information, generate responses, and interact with external systems.
+
+### 🔹 RAG Systems
+
+Knowledge-based AI applications that connect language models with
+documents, databases, embeddings, and retrieval pipelines.
+
+### 🔹 Agentic AI Systems
+
+AI agents capable of using tools, calling APIs, interacting with external
+systems, and executing multi-step workflows.
+
+### 🔹 AI Backend Systems
+
+Backend services that connect AI models with APIs, databases,
+authentication, webhooks, and applications.
+
+### 🔹 Machine Learning Systems
+
+End-to-end ML workflows covering data preparation, feature engineering,
+training, evaluation, inference, and deployment.
+
+### 🔹 Edge AI Systems
+
+Lightweight AI applications designed for resource-constrained devices
+such as microcontrollers and Raspberry Pi.
 
 ---
 
-## 📚 Currently Learning
+## 🔄 AI Engineering Workflow
 
-- Advanced Generative AI
-- Agentic AI Architectures
-- LLM Application Engineering
-- MLOps
-- Docker & Containerization
-- CI/CD
-- System Design for AI Applications
-- Production AI Deployment
-
----
-
-## 🎯 Engineering Focus
-
-> **Build AI systems that work in the real world — not just models that work in a notebook.**
-
-My goal is to continuously improve across **AI engineering, software
-engineering, system design, deployment, and production infrastructure**.
-
----
-
-<div align="center">
-
-### Let's Build Intelligent Systems 🚀
-
-</div>
+```text
+Problem
+   ↓
+Data
+   ↓
+Model / LLM
+   ↓
+Evaluation
+   ↓
+API / Backend
+   ↓
+Agents & Tools
+   ↓
+Integration
+   ↓
+Containerization
+   ↓
+Deployment
+   ↓
+Monitoring & Improvement
