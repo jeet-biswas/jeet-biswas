@@ -24,9 +24,9 @@
 
 ## 👨‍💻 About Me
 
-I am an **AI/ML Engineer** focused on building intelligent systems that
-combine **Machine Learning, Generative AI, Agentic AI, backend engineering,
-and MLOps**.
+I am an **AI/ML Engineer** focused on designing, building, and deploying
+intelligent systems across **Machine Learning, Deep Learning, Generative AI,
+Agentic AI, and MLOps**.
 
 I enjoy taking an AI idea beyond experimentation and turning it into a
 working system — from **data and models to APIs, agents, tools, deployment,
