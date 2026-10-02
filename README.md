@@ -12,6 +12,17 @@ I build and explore applications that connect data, models, APIs, and useful int
 My interests include document understanding, conversational applications, computer
 vision, and the engineering needed to make experiments easier to run and evaluate.
 
+[Projects](#projects) · [Tools](#tools-in-my-projects) ·
+[Approach](#how-i-work) · [Current focus](#what-i-am-working-on) · [Contact](#connect)
+
+## Start here
+
+| If you want to see... | Start with... |
+|---|---|
+| A merged contribution to a collaborative application | [Filewise extraction and PR #20](docs/projects/filewise.md) |
+| Python reasoning and executable checks | [DSA practice](docs/projects/dsa.md) |
+| A UI connected to a hosted language model | [JeetGPT](docs/projects/chatbot.md) |
+
 ## Projects
 
 - **[Filewise document extraction](docs/projects/filewise.md)**:
@@ -61,3 +72,7 @@ about labels, related-document groups, and the limits of synthetic examples.
 For a project question or collaboration discussion, reach me at
 [jeetbiswas816@gmail.com](mailto:jeetbiswas816@gmail.com).
 You can also browse [my public repositories](https://github.com/jeet-biswas?tab=repositories).
+
+For a reproducible issue, include the repository, the input or steps you used,
+what you expected, and what happened. Please leave access tokens and private
+documents out of public issues.
