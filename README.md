@@ -17,8 +17,8 @@ vision, and the engineering needed to make experiments easier to run and evaluat
 - **[Filewise document extraction](docs/projects/filewise.md)**:
   TXT/DOCX/PDF extraction connected to a Drive-backed Chrome extension through
   a local FastAPI companion. [Merged PR #20](https://github.com/SiddharthaGanguli/multimodal-smart-file-organizer/pull/20).
-- [DSA practice](https://github.com/jeet-biswas/DSA):
-  notebooks and implementations for working through algorithm patterns.
+- **[DSA practice](docs/projects/dsa.md)**:
+  algorithm patterns, reusable Python implementations, and executable edge-case tests.
 - **[JeetGPT chat prototype](docs/projects/chatbot.md)**:
   Streamlit, LangChain, and a hosted Hugging Face model endpoint.
 - **[Computer vision notebooks](docs/projects/computer-vision.md)**:
