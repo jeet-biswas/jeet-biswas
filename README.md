@@ -27,6 +27,8 @@ vision, and the engineering needed to make experiments easier to run and evaluat
   React/Firebase authentication and a FastAPI backend scaffold; model work is planned.
 - **[Unity gameplay prototypes](docs/projects/unity.md)**:
   C# exercises in movement, physics, collision handling, and game state.
+- **[ML fundamentals notebooks](docs/projects/ml-fundamentals.md)**:
+  scikit-learn Perceptron experiments, decision regions, and Pandas exploration.
 
 ## What I am working on
 
