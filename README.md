@@ -78,3 +78,11 @@ You can also browse [my public repositories](https://github.com/jeet-biswas?tab=
 For a reproducible issue, include the repository, the input or steps you used,
 what you expected, and what happened. Please leave access tokens and private
 documents out of public issues.
+
+<details>
+<summary>About this profile repository</summary>
+
+The project index is generated from reviewed metadata. Local links and artwork
+have automated checks. [Editing and validation guide](docs/profile-maintenance.md).
+
+</details>
