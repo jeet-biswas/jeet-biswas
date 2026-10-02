@@ -21,6 +21,8 @@ vision, and the engineering needed to make experiments easier to run and evaluat
   notebooks and implementations for working through algorithm patterns.
 - **[JeetGPT chat prototype](docs/projects/chatbot.md)**:
   Streamlit, LangChain, and a hosted Hugging Face model endpoint.
+- **[Computer vision notebooks](docs/projects/computer-vision.md)**:
+  OpenCV face detection and bounding-box visualization with pretrained cascades.
 
 ## What I am working on
 
