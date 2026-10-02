@@ -41,6 +41,12 @@ vision, and the engineering needed to make experiments easier to run and evaluat
 | Interactive applications | C#, Unity | [Gameplay prototypes](docs/projects/unity.md) |
 | Engineering practice | Git, tests, documented assumptions | [DSA](docs/projects/dsa.md), [merged extraction work](docs/projects/filewise.md) |
 
+## How I work
+
+I try to make inputs, failure states, and assumptions explicit; keep components
+small enough to test; and connect claims to code or evaluation.
+[Read my engineering approach](docs/engineering-workflow.md).
+
 ## What I am working on
 
 I am developing my understanding of document extraction, dataset preparation,
