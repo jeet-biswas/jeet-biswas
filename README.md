@@ -19,6 +19,8 @@ vision, and the engineering needed to make experiments easier to run and evaluat
   a local FastAPI companion. [Merged PR #20](https://github.com/SiddharthaGanguli/multimodal-smart-file-organizer/pull/20).
 - [DSA practice](https://github.com/jeet-biswas/DSA):
   notebooks and implementations for working through algorithm patterns.
+- **[JeetGPT chat prototype](docs/projects/chatbot.md)**:
+  Streamlit, LangChain, and a hosted Hugging Face model endpoint.
 
 ## What I am working on
 
