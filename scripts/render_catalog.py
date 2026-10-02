@@ -17,7 +17,8 @@ FIELDS = ("id", "name", "repository", "focus", "status", "case_study")
 def load_projects(root: Path) -> list[dict[str, str]]:
     root = root.resolve()
     data = json.loads((root / "projects.json").read_text(encoding="utf-8"))
-    if data.get("schema_version") != 1 or not isinstance(data.get("projects"), list):
+    if (not isinstance(data, dict) or data.get("schema_version") != 1
+            or not isinstance(data.get("projects"), list)):
         raise ValueError("Expected schema_version 1 and a projects list")
     if not data["projects"]:
         raise ValueError("The project catalog is empty")
