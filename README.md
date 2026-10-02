@@ -25,6 +25,8 @@ vision, and the engineering needed to make experiments easier to run and evaluat
   OpenCV face detection and bounding-box visualization with pretrained cascades.
 - **[ECG application foundation](docs/projects/ecg-foundation.md)**:
   React/Firebase authentication and a FastAPI backend scaffold; model work is planned.
+- **[Unity gameplay prototypes](docs/projects/unity.md)**:
+  C# exercises in movement, physics, collision handling, and game state.
 
 ## What I am working on
 
