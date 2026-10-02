@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Jeet Biswas ? AI and software engineering</title>
+  <desc id="desc">A quiet geometric banner introducing Jeet's work with Python, document understanding, and software fundamentals.</desc>
+  <rect width="1200" height="300" rx="24" fill="#101827"/>
+  <path d="M880 60h160v70H880zm80 110h160v70H960z" fill="none" stroke="#71dfc2" stroke-width="2" opacity="0.7"/>
+  <path d="M1040 95h55v110h-55M960 205h-55v-75" fill="none" stroke="#71dfc2" stroke-width="2" opacity="0.7"/>
+  <circle cx="1095" cy="150" r="5" fill="#71dfc2"/>
+  <text x="62" y="94" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="4" fill="#71dfc2">PYTHON / AI / SOFTWARE</text>
+  <text x="60" y="170" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" fill="#f3f7ff">Jeet Biswas</text>
+  <text x="62" y="220" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#aebcd1">From data and ideas to understandable systems.</text>
+</svg>
