@@ -53,6 +53,9 @@ I am developing my understanding of document extraction, dataset preparation,
 model evaluation, and reproducible workflows. I also practice data structures
 and algorithms alongside application development.
 
+[Document data and evaluation notes](docs/data-quality.md) explain how I think
+about labels, related-document groups, and the limits of synthetic examples.
+
 ## Connect
 
 For a project question or collaboration discussion, reach me at
