@@ -25,6 +25,8 @@ vision, and the engineering needed to make experiments easier to run and evaluat
 
 ## Projects
 
+[Browse the project index](docs/project-index.md) for implementation scope and source links.
+
 - **[Filewise document extraction](docs/projects/filewise.md)**:
   TXT/DOCX/PDF extraction connected to a Drive-backed Chrome extension through
   a local FastAPI companion. [Merged PR #20](https://github.com/SiddharthaGanguli/multimodal-smart-file-organizer/pull/20).

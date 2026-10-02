@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "projects": [
+    {
+      "id": "filewise",
+      "name": "Filewise document extraction",
+      "repository": "https://github.com/jeet-biswas/multimodal-smart-file-organizer",
+      "focus": "Digital document extraction, API integration, and account-scoped previews",
+      "status": "Merged contribution",
+      "case_study": "docs/projects/filewise.md"
+    },
+    {
+      "id": "dsa",
+      "name": "DSA practice",
+      "repository": "https://github.com/jeet-biswas/DSA",
+      "focus": "Python algorithm patterns, invariants, and edge-case tests",
+      "status": "Learning library",
+      "case_study": "docs/projects/dsa.md"
+    },
+    {
+      "id": "jeetgpt",
+      "name": "JeetGPT",
+      "repository": "https://github.com/jeet-biswas/chatbot",
+      "focus": "Streamlit chat interface connected to hosted inference",
+      "status": "Prototype",
+      "case_study": "docs/projects/chatbot.md"
+    },
+    {
+      "id": "computer-vision",
+      "name": "OpenCV face detection",
+      "repository": "https://github.com/jeet-biswas/face_detection",
+      "focus": "Pretrained Haar cascades and bounding-box visualization",
+      "status": "Notebook exercise",
+      "case_study": "docs/projects/computer-vision.md"
+    },
+    {
+      "id": "ecg-foundation",
+      "name": "ECG application foundation",
+      "repository": "https://github.com/jeet-biswas/ECG_analysis",
+      "focus": "React/Firebase authentication and FastAPI application structure",
+      "status": "Application scaffold",
+      "case_study": "docs/projects/ecg-foundation.md"
+    },
+    {
+      "id": "endless-runner",
+      "name": "Endless Runner",
+      "repository": "https://github.com/jeet-biswas/Endless-Runner-Game",
+      "focus": "C# player movement, collision events, and game-state coordination",
+      "status": "Unity prototype",
+      "case_study": "docs/projects/unity.md"
+    },
+    {
+      "id": "ml-fundamentals",
+      "name": "ML fundamentals",
+      "repository": "https://github.com/jeet-biswas/python",
+      "focus": "Perceptron decision boundaries and Pandas exploration",
+      "status": "Notebook exercises",
+      "case_study": "docs/projects/ml-fundamentals.md"
+    }
+  ]
+}
