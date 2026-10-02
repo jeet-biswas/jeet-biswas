@@ -14,8 +14,9 @@ vision, and the engineering needed to make experiments easier to run and evaluat
 
 ## Projects
 
-- [Filewise](https://github.com/jeet-biswas/multimodal-smart-file-organizer):
-  a collaborative document-organizing project with Google Drive storage.
+- **[Filewise document extraction](docs/projects/filewise.md)**:
+  TXT/DOCX/PDF extraction connected to a Drive-backed Chrome extension through
+  a local FastAPI companion. [Merged PR #20](https://github.com/SiddharthaGanguli/multimodal-smart-file-organizer/pull/20).
 - [DSA practice](https://github.com/jeet-biswas/DSA):
   notebooks and implementations for working through algorithm patterns.
 
