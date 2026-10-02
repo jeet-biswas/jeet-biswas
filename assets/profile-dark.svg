@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Jeet Biswas ? AI and software engineering</title>
+  <title id="title">Jeet Biswas - AI and software engineering</title>
   <desc id="desc">A quiet geometric banner introducing Jeet's work with Python, document understanding, and software fundamentals.</desc>
   <rect width="1200" height="300" rx="24" fill="#101827"/>
   <path d="M880 60h160v70H880zm80 110h160v70H960z" fill="none" stroke="#71dfc2" stroke-width="2" opacity="0.7"/>

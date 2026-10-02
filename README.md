@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
-  <img src="assets/profile-light.svg" alt="Jeet Biswas ? Python, AI, and software engineering" width="1200" height="300">
+  <img src="assets/profile-light.svg" alt="Jeet Biswas - Python, AI, and software engineering" width="1200" height="300">
 </picture>
 
 # Jeet Biswas
