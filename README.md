@@ -104,7 +104,10 @@ report, open an issue in the relevant repository with steps to reproduce it.
 <details>
 <summary>About this profile repository</summary>
 
-The project index is generated from reviewed metadata. Local links and artwork
-have automated checks. [Editing and validation guide](docs/profile-maintenance.md).
+The [project index](docs/project-index.md) is generated from reviewed metadata.
+[Automated checks](https://github.com/jeet-biswas/jeet-biswas/actions/workflows/profile-checks.yml)
+validate local links, image descriptions, and SVG assets.
+
+[Editing and validation guide](docs/profile-maintenance.md)
 
 </details>
