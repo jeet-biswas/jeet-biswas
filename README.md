@@ -95,13 +95,11 @@ Tools used across the [project collection](docs/project-index.md):
 
 ## Connect
 
-For a project question or collaboration discussion, reach me at
-[jeetbiswas816@gmail.com](mailto:jeetbiswas816@gmail.com).
-You can also browse [my public repositories](https://github.com/jeet-biswas?tab=repositories).
+For project questions or collaboration discussions, email
+**[jeetbiswas816@gmail.com](mailto:jeetbiswas816@gmail.com)**.
 
-For a reproducible issue, include the repository, the input or steps you used,
-what you expected, and what happened. Please leave access tokens and private
-documents out of public issues.
+Include the project link and what you would like to build or improve. For a bug
+report, open an issue in the relevant repository with steps to reproduce it.
 
 <details>
 <summary>About this profile repository</summary>
