@@ -17,14 +17,6 @@ algorithm implementations, with an emphasis on clear behavior and testable code.
 [Selected work](#selected-work) · [Technical toolkit](#technical-toolkit) ·
 [Engineering approach](#engineering-approach) · [Current focus](#current-focus) · [Connect](#connect)
 
-## Start here
-
-| If you want to see... | Start with... |
-|---|---|
-| A merged contribution to a collaborative application | [Filewise extraction and PR #20](docs/projects/filewise.md) |
-| Python reasoning and executable checks | [DSA practice](docs/projects/dsa.md) |
-| A UI connected to a hosted language model | [JeetGPT](docs/projects/chatbot.md) |
-
 ## Selected work
 
 [Browse the project index](docs/project-index.md) for implementation scope and source links.
