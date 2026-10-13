@@ -41,8 +41,16 @@ complexity, and edge cases explicit.
 
 [Repository](https://github.com/jeet-biswas/DSA) · [Study guide](docs/projects/dsa.md) · [Tests](https://github.com/jeet-biswas/DSA/tree/master/tests)
 
-- **[JeetGPT chat prototype](docs/projects/chatbot.md)**:
-  Streamlit, LangChain, and a hosted Hugging Face model endpoint.
+### JeetGPT — hosted AI chat
+
+**Prototype · Streamlit · LangChain · Hugging Face**
+
+A chat interface connected to a hosted language model, with environment-based
+configuration and session history for display. The write-up covers the request
+flow, current limitations, and next engineering steps.
+
+[Repository](https://github.com/jeet-biswas/chatbot) · [Implementation notes](docs/projects/chatbot.md)
+
 - **[Computer vision notebooks](docs/projects/computer-vision.md)**:
   OpenCV face detection and bounding-box visualization with pretrained cascades.
 - **[ECG application foundation](docs/projects/ecg-foundation.md)**:
