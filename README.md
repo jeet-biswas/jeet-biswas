@@ -8,9 +8,9 @@
 
 **Python · Applied AI · Software engineering**
 
-I build and explore applications that connect data, models, APIs, and useful interfaces.
-My interests include document understanding, conversational applications, computer
-vision, and the engineering needed to make experiments easier to run and evaluate.
+I build Python applications that connect documents, data, and model APIs to useful
+interfaces. My work spans document extraction, hosted AI integrations, and
+algorithm implementations, with an emphasis on clear behavior and testable code.
 
 [Projects](#projects) · [Tools](#tools-in-my-projects) ·
 [Approach](#how-i-work) · [Current focus](#what-i-am-working-on) · [Contact](#connect)
