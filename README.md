@@ -65,14 +65,16 @@ flow, current limitations, and next engineering steps.
 
 ## Technical toolkit
 
-| Area | Tools | Example |
-|---|---|---|
-| Python applications | Python, FastAPI, Streamlit | [Filewise](docs/projects/filewise.md), [JeetGPT](docs/projects/chatbot.md) |
-| Data and ML experiments | Pandas, scikit-learn, Jupyter | [ML fundamentals](docs/projects/ml-fundamentals.md) |
-| Computer vision | OpenCV, Matplotlib | [Detection notebooks](docs/projects/computer-vision.md) |
-| Web foundations | JavaScript, React, Vite, Firebase | [ECG application](docs/projects/ecg-foundation.md) |
-| Interactive applications | C#, Unity | [Gameplay prototypes](docs/projects/unity.md) |
-| Engineering practice | Git, tests, documented assumptions | [DSA](docs/projects/dsa.md), [merged extraction work](docs/projects/filewise.md) |
+Tools used across the [project collection](docs/project-index.md):
+
+| Area | Technologies |
+|---|---|
+| Applications and APIs | Python, FastAPI, Streamlit |
+| AI integrations and experiments | LangChain, Hugging Face, scikit-learn, Pandas |
+| Computer vision and notebooks | OpenCV, Matplotlib, Jupyter |
+| Web development | JavaScript, React, Vite, Firebase |
+| Gameplay prototypes | C#, Unity |
+| Development workflow | Git, GitHub Actions, Python unittest |
 
 ## Engineering approach
 
