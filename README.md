@@ -87,12 +87,11 @@ Tools used across the [project collection](docs/project-index.md):
 
 ## Current focus
 
-I am developing my understanding of document extraction, dataset preparation,
-model evaluation, and reproducible workflows. I also practice data structures
-and algorithms alongside application development.
+- **Document understanding:** extraction workflows, dataset preparation, and evaluation.
+- **Reproducible experiments:** clear label definitions, grouped data splits, and traceable results.
+- **Algorithm fluency:** reasoning about correctness and time/space tradeoffs through Python practice.
 
-[Document data and evaluation notes](docs/data-quality.md) explain how I think
-about labels, related-document groups, and the limits of synthetic examples.
+[Read my document data and evaluation notes](docs/data-quality.md)
 
 ## Connect
 
