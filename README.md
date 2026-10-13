@@ -12,6 +12,8 @@ I build Python applications that connect documents, data, and model APIs to usef
 interfaces. My work spans document extraction, hosted AI integrations, and
 algorithm implementations, with an emphasis on clear behavior and testable code.
 
+[Email](mailto:jeetbiswas816@gmail.com) · [GitHub repositories](https://github.com/jeet-biswas?tab=repositories)
+
 [Projects](#projects) · [Tools](#tools-in-my-projects) ·
 [Approach](#how-i-work) · [Current focus](#what-i-am-working-on) · [Contact](#connect)
 
