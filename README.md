@@ -31,8 +31,16 @@ extraction status, and retries.
 
 [Project write-up](docs/projects/filewise.md) · [Merged PR #20](https://github.com/SiddharthaGanguli/multimodal-smart-file-organizer/pull/20)
 
-- **[DSA practice](docs/projects/dsa.md)**:
-  algorithm patterns, reusable Python implementations, and executable edge-case tests.
+### DSA — algorithms and problem solving
+
+**Learning library · Python · Standard-library tests**
+
+Reusable implementations of binary search, prefix sums, two pointers, sliding
+windows, sorting, stacks, and queues. The exercises make input assumptions,
+complexity, and edge cases explicit.
+
+[Repository](https://github.com/jeet-biswas/DSA) · [Study guide](docs/projects/dsa.md) · [Tests](https://github.com/jeet-biswas/DSA/tree/master/tests)
+
 - **[JeetGPT chat prototype](docs/projects/chatbot.md)**:
   Streamlit, LangChain, and a hosted Hugging Face model endpoint.
 - **[Computer vision notebooks](docs/projects/computer-vision.md)**:
