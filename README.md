@@ -6,7 +6,7 @@
 
 # Jeet Biswas
 
-**AI/ML engineering, Python, and the software around the model.**
+**Python · Applied AI · Software engineering**
 
 I build and explore applications that connect data, models, APIs, and useful interfaces.
 My interests include document understanding, conversational applications, computer
