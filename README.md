@@ -51,14 +51,17 @@ flow, current limitations, and next engineering steps.
 
 [Repository](https://github.com/jeet-biswas/chatbot) · [Implementation notes](docs/projects/chatbot.md)
 
-- **[Computer vision notebooks](docs/projects/computer-vision.md)**:
-  OpenCV face detection and bounding-box visualization with pretrained cascades.
-- **[ECG application foundation](docs/projects/ecg-foundation.md)**:
-  React/Firebase authentication and a FastAPI backend scaffold; model work is planned.
-- **[Unity gameplay prototypes](docs/projects/unity.md)**:
-  C# exercises in movement, physics, collision handling, and game state.
-- **[ML fundamentals notebooks](docs/projects/ml-fundamentals.md)**:
-  scikit-learn Perceptron experiments, decision regions, and Pandas exploration.
+<details>
+<summary>More projects — computer vision, web foundations, Unity, and ML</summary>
+
+| Project | Implemented scope |
+|---|---|
+| [Computer vision](docs/projects/computer-vision.md) | OpenCV notebook exercises using pretrained face detectors and bounding-box visualization. |
+| [ECG application foundation](docs/projects/ecg-foundation.md) | React/Firebase authentication and a FastAPI scaffold; model work is planned. |
+| [Unity prototypes](docs/projects/unity.md) | C# exercises in movement, physics, collision handling, and game state. |
+| [ML fundamentals](docs/projects/ml-fundamentals.md) | Perceptron experiments, decision regions, and Pandas exploration. |
+
+</details>
 
 ## Technical toolkit
 
