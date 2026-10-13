@@ -14,8 +14,8 @@ algorithm implementations, with an emphasis on clear behavior and testable code.
 
 [Email](mailto:jeetbiswas816@gmail.com) · [GitHub repositories](https://github.com/jeet-biswas?tab=repositories)
 
-[Projects](#projects) · [Tools](#tools-in-my-projects) ·
-[Approach](#how-i-work) · [Current focus](#what-i-am-working-on) · [Contact](#connect)
+[Selected work](#selected-work) · [Technical toolkit](#technical-toolkit) ·
+[Engineering approach](#engineering-approach) · [Current focus](#current-focus) · [Connect](#connect)
 
 ## Start here
 
@@ -25,7 +25,7 @@ algorithm implementations, with an emphasis on clear behavior and testable code.
 | Python reasoning and executable checks | [DSA practice](docs/projects/dsa.md) |
 | A UI connected to a hosted language model | [JeetGPT](docs/projects/chatbot.md) |
 
-## Projects
+## Selected work
 
 [Browse the project index](docs/project-index.md) for implementation scope and source links.
 
@@ -45,7 +45,7 @@ algorithm implementations, with an emphasis on clear behavior and testable code.
 - **[ML fundamentals notebooks](docs/projects/ml-fundamentals.md)**:
   scikit-learn Perceptron experiments, decision regions, and Pandas exploration.
 
-## Tools in my projects
+## Technical toolkit
 
 | Area | Tools | Example |
 |---|---|---|
@@ -56,13 +56,13 @@ algorithm implementations, with an emphasis on clear behavior and testable code.
 | Interactive applications | C#, Unity | [Gameplay prototypes](docs/projects/unity.md) |
 | Engineering practice | Git, tests, documented assumptions | [DSA](docs/projects/dsa.md), [merged extraction work](docs/projects/filewise.md) |
 
-## How I work
+## Engineering approach
 
 I try to make inputs, failure states, and assumptions explicit; keep components
 small enough to test; and connect claims to code or evaluation.
 [Read my engineering approach](docs/engineering-workflow.md).
 
-## What I am working on
+## Current focus
 
 I am developing my understanding of document extraction, dataset preparation,
 model evaluation, and reproducible workflows. I also practice data structures
