@@ -78,9 +78,12 @@ Tools used across the [project collection](docs/project-index.md):
 
 ## Engineering approach
 
-I try to make inputs, failure states, and assumptions explicit; keep components
-small enough to test; and connect claims to code or evaluation.
-[Read my engineering approach](docs/engineering-workflow.md).
+- **Define behavior:** make inputs, expected outputs, and failure states explicit.
+- **Keep components testable:** separate parsing, application logic, and interface state.
+- **Check the boundaries:** use small examples, reference solutions, and edge-case tests.
+- **Document the evidence:** connect implementation claims to source, checks, and known limits.
+
+[Engineering notes and examples](docs/engineering-workflow.md)
 
 ## Current focus
 
