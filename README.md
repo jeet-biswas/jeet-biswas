@@ -16,7 +16,6 @@ algorithm implementations, with an emphasis on clear behavior and testable code.
 
 [Selected work](#selected-work) · [Technical toolkit](#technical-toolkit) ·
 [Engineering approach](#engineering-approach) · [Current focus](#current-focus) · [Connect](#connect)
-
 ## Selected work
 
 [Browse the project index](docs/project-index.md) for implementation scope and source links.
