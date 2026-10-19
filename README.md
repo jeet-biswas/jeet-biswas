@@ -93,7 +93,7 @@ Tools used across the [project collection](docs/project-index.md):
 
 [Read my document data and evaluation notes](docs/data-quality.md)
 
-## Connect 
+## Connect  
 
 For project questions or collaboration discussions, email
 **[jeetbiswas816@gmail.com](mailto:jeetbiswas816@gmail.com)**.
