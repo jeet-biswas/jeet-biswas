@@ -41,7 +41,7 @@ complexity, and edge cases explicit.
 
 [Repository](https://github.com/jeet-biswas/DSA) · [Study guide](docs/projects/dsa.md) · [Tests](https://github.com/jeet-biswas/DSA/tree/master/tests)
 
-### JeetGPT — hosted AI chat
+### JeetGPT - hosted AI chat
 
 **Prototype · Streamlit · LangChain · Hugging Face**
 
