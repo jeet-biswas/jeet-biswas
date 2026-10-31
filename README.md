@@ -6,7 +6,7 @@
 
 # Jeet Biswas
 
-**Python · Applied AI · Software engineering**
+**Python . Applied AI · Software engineering**
 
 I build Python applications that connect documents, data, and model APIs to useful
 interfaces. My work spans document extraction, hosted AI integrations, and
