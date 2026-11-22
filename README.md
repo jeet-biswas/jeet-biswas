@@ -26,7 +26,7 @@ algorithm implementations, with an emphasis on clear behavior and testable code.
 **Merged contribution · Python · FastAPI · JavaScript**
 
 Connected TXT, DOCX, and digital PDF extraction to a Drive-backed Chrome extension
-through a local API. The contribution includes account-scoped text previews,
+through a local API. The contribution includes account-scoped text previews.
 extraction status, and retries.
 
 [Project write-up](docs/projects/filewise.md) · [Merged PR #20](https://github.com/SiddharthaGanguli/multimodal-smart-file-organizer/pull/20)
